@@ -1,0 +1,265 @@
+
+@media screen and (min-width:768px){
+    .navbar-brand-centered {
+        position: absolute;
+        left: 50%;
+        display: block;
+        width: 160px;
+        text-align: center;
+        background: none;
+    }
+    .navbar>.container .navbar-brand-centered, 
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -80px;
+    }
+}
+
+#navbar-text-centered {
+  padding-top: 45px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+  
+
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    margin-bottom: 0px;
+    border-radius: 0px;
+    border-color: #ffffff;
+}
+
+.navbar-default {
+  min-height: 135px;
+  font-family: "Myriad Pro"; font-weight: 700;
+  font-size: 20px;
+  color: #1e1e1e;
+
+}
+
+.container .jumbotron {
+    border-radius: 0px;
+}
+
+
+/* Customize container */
+@media (min-width: 1200px) {
+  .container {
+    width: 1700px;
+  }
+}
+
+
+
+/* Main marketing message and sign up button */
+.jumbotron {
+background-size: cover;
+min-height: 720px;
+padding-top: 160px;
+margin: 0px;
+}
+
+.jumbotron_one {
+   background-image: url("images/bg3.jpg"); 
+}
+
+#gallery1{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery2{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery3{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery4{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery5{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery6{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery7{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+#gallery8{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 327px;
+    padding-top: 90px;
+
+}
+
+.leftimage {
+  height: 85px;
+}
+
+
+
+.btn {
+  border-radius: 0px;
+
+}
+
+/*
+
+.btn:hover
+{
+  background-color: #f0a410;
+  outline-color: #f0a410;
+}
+
+.btn:focus
+{
+  background-color: #f0a410;
+  outline-color: #f0a410;
+}
+
+.btn:active
+{
+  background-color: #f0a410;
+  outline-color: #f0a410;
+}
+
+*/
+
+.jumbotron h1 {
+  font-family: "Myriad Pro"; font-weight: 700;
+  font-size: 112px;
+  color: #1e1e1e;
+
+}
+
+.jumbotron p {
+  font-family: "Myriad Pro"; font-weight: 600;
+  font-size: 18px;
+  color: #b8b8b8;
+}
+
+
+
+p {
+  font-family: "Myriad Pro"; font-weight: 400;
+  font-size: 20px;
+  color: #b8b8b8;
+}
+
+.gallery {
+  text-align: center;
+  padding: 60px 10% 20px 10%;
+
+}
+
+.galleryphotos {
+  padding: 0px 15px 0px 15px;
+
+}
+
+
+ 
+h2 {
+  font-family: "Myriad Pro"; font-weight: 700;
+  font-size: 70px;
+  color: #1e1e1e;
+
+}
+
+h3 {
+  font-family: "Myriad Pro"; font-weight: 700;
+  font-size: 40px;
+  color: #1e1e1e;
+
+}
+
+h4 {
+  font-family: "Myriad Pro"; font-weight: 700;
+  font-size: 30px;
+  color: #1e1e1e;
+
+}
+
+h5 {
+  font-family: "Myriad Pro"; font-weight: 700;
+  font-size: 20px;
+  color: #1e1e1e;
+}
+
+section {
+    padding: 100px 0;
+    text-align: center;
+}
+select.frecuency {
+    border: none;
+    font-style: italic;
+    background-color: transparent;
+    cursor: pointer;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transition: -webkit-transform .35s ease-in;
+    transition: -webkit-transform .35s ease-in;
+    border-radius: 0px;
+}
+select.frecuency:focus {
+    outline: none;
+    border-radius: 0px;
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+    -webkit-transition: -webkit-transform .35s ease-in;
+    transition: -webkit-transform .35s ease-in;
+}
+
+.input-group {
+    margin: 20px auto;
+    width: 100%;
+}
+input.btn.btn-lg,
+input.btn.btn-lg:focus {
+    outline: none;
+    width: 60%;
+    height: 60px;
+    border-radius: 0px;
+
+}
+button.btn {
+    width: 40%;
+    height: 60px;
+    border-radius: 0px;
+}
+
+#signup {
+  padding-top: 40px;
+  padding-bottom: 40px;
+text-align: center;
+
+}
+

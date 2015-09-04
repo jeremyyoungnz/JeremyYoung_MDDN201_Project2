@@ -1,4 +1,8 @@
 
+body{
+zoom: 80%;
+}
+
 @media screen and (min-width:768px){
     .navbar-brand-centered {
         position: absolute;
@@ -20,7 +24,29 @@
   padding-right: 10%;
 }
 
-  
+#footer-text-centered {
+  padding-top: 45px;
+  padding-left: 30%;
+}
+
+ .footer-custom {
+    color: #1e1e1e;
+    background-color: #1e1e1e;
+    margin-bottom: 0px;
+    border-radius: 0px;
+    border-color: #ffffff;
+}
+ 
+.footerlogo {
+  text-align: center;
+  color: #1e1e1e;
+}
+
+.footer p {
+  color: #3a3a3d;
+  font-family: "Myriad Pro"; font-weight: 700;
+}
+
 
 .navbar-custom {
     color: #FFFFFF;
@@ -61,8 +87,20 @@ margin: 0px;
 }
 
 .jumbotron_one {
-   background-image: url("images/bg3.jpg"); 
+   background-image: url("images/indexjumbo.jpg"); 
 }
+
+.jumbotron_two {
+   background-image: url("images/indexjumbo.jpg"); 
+   text-align: center;
+   padding-top: 250px;
+}
+
+.jumbotron_three {
+   background-image: url("images/indexjumbo2.jpg"); 
+}
+
+
 
 #gallery1{
     background:url('images/ph.jpg') no-repeat center center;
@@ -131,27 +169,7 @@ margin: 0px;
 
 }
 
-/*
 
-.btn:hover
-{
-  background-color: #f0a410;
-  outline-color: #f0a410;
-}
-
-.btn:focus
-{
-  background-color: #f0a410;
-  outline-color: #f0a410;
-}
-
-.btn:active
-{
-  background-color: #f0a410;
-  outline-color: #f0a410;
-}
-
-*/
 
 .jumbotron h1 {
   font-family: "Myriad Pro"; font-weight: 700;
@@ -186,6 +204,8 @@ p {
 }
 
 
+
+
  
 h2 {
   font-family: "Myriad Pro"; font-weight: 700;
@@ -207,6 +227,13 @@ h4 {
   color: #1e1e1e;
 
 }
+
+#orange {
+  color:#f0a410;
+    background: none;
+   font-size: 160px;
+}
+
 
 h5 {
   font-family: "Myriad Pro"; font-weight: 700;
@@ -263,3 +290,22 @@ text-align: center;
 
 }
 
+
+
+#secondnav1{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 290px;
+
+}
+
+#secondnav2{
+    background:url('images/ph.jpg') no-repeat center center;
+    height: 290px;
+
+}
+
+#secondnav {
+  padding-top: 20px;
+  padding-left: 41%;
+  background-color: #1e1e1e;
+}

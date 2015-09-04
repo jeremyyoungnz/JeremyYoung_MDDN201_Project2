@@ -50,10 +50,10 @@ zoom: 80%;
 
 .navbar-custom {
     color: #FFFFFF;
-    background-color: #FFFFFF;
+    background-color: #f4f4f4;
     margin-bottom: 0px;
     border-radius: 0px;
-    border-color: #ffffff;
+    border-color: #f4f4f4;
 }
 
 .navbar-default {
@@ -100,61 +100,79 @@ margin: 0px;
    background-image: url("images/indexjumbo2.jpg"); 
 }
 
+.jumbotron_four {
+   background-image: url("images/workjumbo.jpg"); 
+}
+
+.jumbotron_five {
+   background-image: url("images/ourpurposejumbo.jpg"); 
+}
+
+.jumbotron_six {
+   background-image: url("images/ourpurposejumbo2.jpg"); 
+}
+
+.jumbotron_seven {
+   background-image: url("images/networkjumbo.jpg"); 
+}
+
+
+
 
 
 #gallery1{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery1.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery2{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery2.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery3{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery3.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery4{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery4.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery5{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery5.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery6{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery6.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery7{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery7.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
 #gallery8{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/newsgallery8.jpg') no-repeat center center;
     height: 327px;
-    padding-top: 90px;
+    padding-top: 200px;
 
 }
 
@@ -234,6 +252,10 @@ h4 {
    font-size: 160px;
 }
 
+#white {
+  color:#f4f4f4;
+    background: none;
+}
 
 h5 {
   font-family: "Myriad Pro"; font-weight: 700;
@@ -293,19 +315,19 @@ text-align: center;
 
 
 #secondnav1{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/networknav.jpg') no-repeat center center;
     height: 290px;
 
 }
 
 #secondnav2{
-    background:url('images/ph.jpg') no-repeat center center;
+    background:url('images/work3.jpg') no-repeat center center;
     height: 290px;
 
 }
 
 #secondnav {
-  padding-top: 20px;
-  padding-left: 41%;
-  background-color: #1e1e1e;
+  padding-top: 10px;
+  padding-left: 38%;
+  background-color: #f4f4f4;
 }

@@ -1,6 +1,6 @@
 
 body{
-zoom: 80%;
+zoom: 85%;
 }
 
 @media screen and (min-width:768px){
@@ -116,8 +116,38 @@ margin: 0px;
    background-image: url("images/networkjumbo.jpg"); 
 }
 
+.jumbotron_eight {
+   background-image: url("images/networkjumbo.jpg"); 
+}
 
+.jumbotron_nine {
+   background-image: url("images/aboutusjumbo.jpg"); 
+}
 
+.jumbotron_ten {
+  padding-top: 260px;
+  background-image: url("images/ourpurposejumbo.jpg"); 
+}
+
+.jumbotron_eleven {
+  padding-top: 260px;
+  background-image: url("images/aboutusjumbo.jpg"); 
+}
+
+.jumbotron_12 {
+  padding-top: 260px;
+  background-image: url("images/work4.jpg"); 
+}
+
+.jumbotron_13 {
+  padding-top: 260px;
+  background-image: url("images/officesjumbo.jpg"); 
+}
+
+.jumbotron_14 {
+  padding-top: 260px;
+  background-image: url("images/officesjumbo2.jpg"); 
+}
 
 
 #gallery1{
@@ -331,3 +361,12 @@ text-align: center;
   padding-left: 38%;
   background-color: #f4f4f4;
 }
+
+#apply {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+
+
+

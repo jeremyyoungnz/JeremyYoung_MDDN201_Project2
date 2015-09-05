@@ -149,6 +149,35 @@ margin: 0px;
   background-image: url("images/officesjumbo2.jpg"); 
 }
 
+.jumbotron_15 {
+  background-image: url("images/advertisingjumbo.jpg"); 
+}
+
+.jumbotron_16 {
+  background-image: url("images/work2.jpg"); 
+}
+
+.jumbotron_17 {
+  background-image: url("images/work1.jpg"); 
+}
+
+.jumbotron_18 {
+  background-image: url("images/work3.jpg"); 
+}
+
+.jumbotron_19 {
+  background-image: url("images/careers2.jpg"); 
+     text-align: center;
+   padding-top: 390px;
+}
+
+.jumbotron_20 {
+  background-image: url("images/casestudyjumbo.jpg"); 
+     text-align: center;
+   padding-top: 390px;
+}
+
+
 
 #gallery1{
     background:url('images/newsgallery1.jpg') no-repeat center center;
@@ -229,7 +258,7 @@ margin: 0px;
 .jumbotron p {
   font-family: "Myriad Pro"; font-weight: 600;
   font-size: 18px;
-  color: #b8b8b8;
+  color: #696c6e;
 }
 
 
